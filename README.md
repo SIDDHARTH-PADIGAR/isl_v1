@@ -36,4 +36,3 @@ While the underlying ASL model is fully functional for real-world usage, the ISL
 ---
 
 *Note: This README focuses strictly on the developmental aspects and challenges of the ISL model as outlined above.*
-```
